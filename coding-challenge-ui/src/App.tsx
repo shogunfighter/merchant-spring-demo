@@ -2,6 +2,8 @@ import React, { useState } from "react";
 
 import styled from "styled-components";
 
+import { TableWithPagination } from "./TableWithPagination";
+
 const AppWrapper = styled.div`
   height: 100vh;
   width: 100vw;
@@ -48,7 +50,7 @@ const App = () => {
         <HeaderText>Analytics Dashboard</HeaderText>
         <Username>Welcome, {user ? user.firstName : "Guest"}!</Username>
       </AppHeader>
-      {/** Dashboard - new widgets go here */}
+      <TableWithPagination itemsPerPage={2} />
     </AppWrapper>
   );
 };
