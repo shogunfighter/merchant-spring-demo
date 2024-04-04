@@ -1,0 +1,11 @@
+Id,storeId,orderId,latest_ship_date,shipment_status,destination,items,orderValue
+1,2,RBGSESWLOZ,02/02/2024,Pending,"Great Falls MM, 59963-4198",7,160.76
+2,4,DBCHOSGATR,02/03/2024,Pending,"Lynn MT, 05077",8,112.96
+3,2,YTSRTMQQSJ,18/02/2024,Shipped,"Dublin AM, 95984-5872",8,150.2
+4,3,ZVPQAZEAOV,09/03/2024,Shipped,"Bowie EC, 15700-5247",4,120.26
+5,4,KHFDZXOFRA,26/01/2024,Pending,"Burlington SD, 22442",7,164.66
+6,2,ECTEXDYITN,06/03/2024,Pending,"Fall River BZ, 85373-8272",8,180.18
+7,2,FBCCLMTDUE,10/03/2024,Pending,"Buena Park AI, 46226",9,146.37
+8,2,LNLTXZJDCS,25/02/2024,Shipped,"Pasadena TT, 75169",2,102.87
+9,1,BJJHWPBYNN,29/02/2024,Pending,"Rialto ME, 69648",5,133.79
+10,4,EGIEBZIYNM,28/02/2024,Pending,"Burbank UY, 81883-6088",1,70.92
